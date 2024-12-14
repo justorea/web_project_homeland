@@ -1,0 +1,66 @@
+.page {
+  background-color: #2a2c2f;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    padding-top: 30px;
+  }
+
+  .header__title {
+    max-width: 530px;
+    margin: 90px auto 25px;
+    font-size: 75px;
+    line-height: 1.05;
+  }
+
+  .header__subtitle {
+    margin: 0 auto 30px;
+  }
+
+  .content {
+    margin: 90px 24px 88px;
+  }
+
+  .content__introduction {
+    margin: 0 0 50px;
+    font-size: 45px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .header {
+    padding-top: 20px;
+  }
+
+  .header__logo {
+    max-width: 188px;
+  }
+
+  .header__title {
+    max-width: 228px;
+    margin: 50px auto 16px;
+    font-size: 40px;
+    line-height: 1.1;
+  }
+
+  .header__subtitle {
+    max-width: 288px;
+    margin: 0 auto 40px;
+    font-size: 16px;
+    line-height: 1.25;
+  }
+
+  .content {
+    margin: 64px 16px;
+  }
+
+  .content__introduction {
+    margin: 0 0 40px;
+    font-size: 32px;
+  }
+}
