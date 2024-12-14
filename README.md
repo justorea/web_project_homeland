@@ -10,4 +10,4 @@ Se utilizó:
 - Diseño responsivo
 - Consulta de medios
 
-URL:
+URL:https://justorea.github.io/web_project_homeland/
