@@ -2,7 +2,7 @@
 
 Homeland
 
-Página web del coffe eshop de Triple Picks, proyecto creado utilizando HTML y CSS aplicando pautas de diseño descritas en Figma. Se comparte información, y se aplican consulta de medio para cuplir con diseñor responsivo.
+Página web de las ciudades natales de algunos colaboradores de Triple Ten, proyecto creado utilizando HTML y CSS aplicando pautas de diseño descritas en Figma. Se comparte información, y se aplican consulta de medio para cuplir con diseñor responsivo.
 
 Se utilizó:
 
