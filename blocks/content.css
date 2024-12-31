@@ -1,9 +1,9 @@
-.content {
+.section {
   max-width: 984px;
   margin: 92px auto 0;
 }
 
-.content__introduction {
+.section__introduction {
   margin: 0 0 40px;
   height: 100%;
   max-width: 830px;
@@ -12,7 +12,7 @@
   font-weight: 900;
 }
 
-.content__quote {
+.section__quote {
   max-width: 738px;
   margin: 0;
   font-size: 24px;
@@ -20,7 +20,7 @@
   font-weight: 400;
 }
 
-.content__autor {
+.section__autor {
   text-align: end;
   max-width: 738px;
   margin: 10px 0 32px;
@@ -28,7 +28,7 @@
   font-weight: 400;
 }
 
-.content__text {
+.section__text {
   margin: 0;
   max-width: 722px;
   line-height: 1.6;
@@ -36,22 +36,22 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .content {
+  .section {
     margin: 90px 24px 0;
   }
 
-  .content__introduction {
+  .section__introduction {
     margin: 0 0 50px;
     font-size: 45px;
   }
 }
 
 @media screen and (max-width: 544px) {
-  .content {
+  .section {
     margin: 64px 16px;
   }
 
-  .content__introduction {
+  .section__introduction {
     margin: 0 0 40px;
     font-size: 32px;
   }

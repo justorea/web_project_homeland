@@ -56,7 +56,7 @@
   );
 }
 
-.frame__paragraph {
+.place__frame-paragraph {
   padding: 13px 20px;
   margin: 0;
   text-align: center;
@@ -170,7 +170,7 @@
     margin: 0 16px;
   }
 
-  .frame__paragraph {
+  .place__frame-paragraph {
     font-size: 14px;
   }
 
