@@ -26,10 +26,10 @@
 }
 
 .header__image {
-  width: 100%;
-  max-width: 984px;
+  max-width: 100%;
   display: block;
   margin: auto;
+  box-shadow: 10px 10px 25px 0px #00000080;
 }
 
 @media screen and (max-width: 1024px) {
@@ -46,15 +46,6 @@
 
   .header__subtitle {
     margin: 0 auto 30px;
-  }
-
-  .content {
-    margin: 90px 24px 88px;
-  }
-
-  .content__introduction {
-    margin: 0 0 50px;
-    font-size: 45px;
   }
 }
 
@@ -79,14 +70,5 @@
     margin: 0 auto 40px;
     font-size: 16px;
     line-height: 1.25;
-  }
-
-  .content {
-    margin: 64px 16px;
-  }
-
-  .content__introduction {
-    margin: 0 0 40px;
-    font-size: 32px;
   }
 }

@@ -1,6 +1,6 @@
 .content {
   max-width: 984px;
-  margin: 92px auto;
+  margin: 92px auto 0;
 }
 
 .content__introduction {
@@ -36,23 +36,8 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .header {
-    padding-top: 30px;
-  }
-
-  .header__title {
-    max-width: 530px;
-    margin: 90px auto 25px;
-    font-size: 75px;
-    line-height: 1.05;
-  }
-
-  .header__subtitle {
-    margin: 0 auto 30px;
-  }
-
   .content {
-    margin: 90px 24px 88px;
+    margin: 90px 24px 0;
   }
 
   .content__introduction {
@@ -62,28 +47,6 @@
 }
 
 @media screen and (max-width: 544px) {
-  .header {
-    padding-top: 20px;
-  }
-
-  .header__logo {
-    max-width: 188px;
-  }
-
-  .header__title {
-    max-width: 228px;
-    margin: 50px auto 16px;
-    font-size: 40px;
-    line-height: 1.1;
-  }
-
-  .header__subtitle {
-    max-width: 288px;
-    margin: 0 auto 40px;
-    font-size: 16px;
-    line-height: 1.25;
-  }
-
   .content {
     margin: 64px 16px;
   }
